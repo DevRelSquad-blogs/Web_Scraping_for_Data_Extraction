@@ -1,7 +1,7 @@
 # Python Web Scraping Project: Quotes from Quotes to Scrape
 
 This project demonstrates how to use Python to scrape data from the website [Quotes to Scrape](http://quotes.toscrape.com/). The code fetches quotes, authors, and tags from the site using the `requests` and `BeautifulSoup` libraries, organizes the data, and saves it to a CSV file.
-
+For additional insights and practical use cases, please take a look at this article on [Web Scraping with Python](https://www.devrelsquad.com/post/web-scraping-with-python-step-by-step-guide-for-data-extraction).
 ## Table of Contents
 - [Features](#features)
 - [Technologies](#technologies)
